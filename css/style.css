@@ -58,3 +58,15 @@ table {
 body{
     max-width: 2273px;
 }
+.headerBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    line-height: 40px;
+}
+.nav{
+
+}
+.logo {
+
+}
